@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="CircleTextSize" format="dimension"/>
+    <attr name="MinLineColor" format="color"/>
+    <attr name="MaxLineColor" format="color"/>
+    <attr name="CircleTextColor" format="color"/>
+    <attr name="CircleColor" format="color"/>
+    <attr name="ChartAlpha" format="integer"/>
+
+    <declare-styleable name="WeatherLineChart">
+        <attr name="CircleTextSize"/>
+        <attr name="MinLineColor"/>
+        <attr name="MaxLineColor"/>
+        <attr name="CircleTextColor"/>
+        <attr name="CircleColor"/>
+        <attr name="ChartAlpha"/>
+    </declare-styleable>
+
+</resources>
